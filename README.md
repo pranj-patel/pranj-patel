@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranj-patel
+- 👋 Hi, I’m @pranj-patel https://pranj-patel.github.io/Pranj/
   
 ## About Me
 I'm a passionate software development student, enthusiastic about creating innovative solutions and exploring various technologies. Currently diving deep into game development, web development, and mobile app development.
